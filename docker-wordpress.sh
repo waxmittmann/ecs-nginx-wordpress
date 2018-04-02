@@ -1,4 +1,4 @@
-docker run --name wordpress --network backend-net \
+docker run --name maschine --network backend-net \
   -e WORDPRESS_DB_HOST=mysql \
   -e WORDPRESS_DB_USER=root \
   -e WORDPRESS_DB_PASSWORD=password \
