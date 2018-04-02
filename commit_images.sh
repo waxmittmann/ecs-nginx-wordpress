@@ -1,0 +1,1 @@
+docker commit maschine maschine_wordpress
